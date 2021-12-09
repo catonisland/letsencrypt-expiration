@@ -4,7 +4,7 @@ Due to letsencrypt DST Root CA X3 Expiration on September 2021, this script allo
 
 Debian 8 Jessie and debian 9 Stretch, just run :
 ````bash
-wget -O - https://raw.githubusercontent.com/xenetis/letsencrypt-expiration/main/letsencrypt-expiration.sh | bash
+wget -O - https://raw.githubusercontent.com/catonisland/letsencrypt-expiration/main/letsencrypt-expiration.sh | bash
 ````
 
 Debian 10 Buster and debian 11 bullseye : 
